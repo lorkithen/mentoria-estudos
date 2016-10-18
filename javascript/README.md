@@ -12,4 +12,4 @@
 
 [String](https://github.com/lorkithen/mentoria-estudos/blob/master/javascript/string.md)
 
-[Undefined]https://github.com/lorkithen/mentoria-estudos/blob/master/javascript/undefined.md)
+[Undefined](https://github.com/lorkithen/mentoria-estudos/blob/master/javascript/undefined.md)
