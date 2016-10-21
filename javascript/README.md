@@ -13,3 +13,5 @@
 [String](https://github.com/lorkithen/mentoria-estudos/blob/master/javascript/string.md)
 
 [Undefined](https://github.com/lorkithen/mentoria-estudos/blob/master/javascript/undefined.md)
+
+[Tipagem Javascript](https://github.com/lorkithen/mentoria-estudos/blob/master/javascript/tipagem-javascript.md)
