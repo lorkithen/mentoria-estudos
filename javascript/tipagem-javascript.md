@@ -8,7 +8,7 @@ usar a palavra "var".
 Exemplo:
 ```javascript
 var nome;
-nome = "fulano"";
+nome = "fulano"
 ```
 
 Em outras tipagem por exemplo há uma verificação dos tipos usados em dados e variáveis
