@@ -9,7 +9,6 @@ Exemplo:
 ```javascript
 var nome;
 nome = "fulano"";
-var idade =  30;
 ```
 
 Em outras tipagem por exemplo há uma verificação dos tipos usados em dados e variáveis
@@ -20,18 +19,18 @@ que no javascript as variáveis podem conter qualquer tipo de dado.
 ## Vantagens e Desvantagens
 
 ### Desvantagens
-> Descobre os erros no último momento.
-> A perfomance costuma ser inferior
-> Exigem testes em cima dos tipos
-> O programador precisa entender e documentar o código para saber os tipos.
-> Os tipos de dados são resolvidos em tempo de execução.
+> - Descobre os erros no último momento
+> - A perfomance costuma ser inferior
+> - Exigem testes em cima dos tipos
+> - O programador precisa entender e documentar o código para saber os tipos.
+> - Os tipos de dados são resolvidos em tempo de execução.
 
 ### Vantagens
-> Facilita o experimento
-> Flexibilidade
-> Facilita pequenos programas
-> Alterações podem ser assimiladas sem alteração no código específico
-> Conciso
+> - Facilita o experimento
+> - Flexibilidade
+> - Facilita pequenos programas
+> - Alterações podem ser assimiladas sem alteração no código específico
+> - Conciso
 
 #### Tipagem Fraca
 
